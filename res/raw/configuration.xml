@@ -2,11 +2,11 @@
 <webWidget>
 	<widgetName>Bet333</widgetName>
 	<registeredUrl>
-		<link>http://stat.appsgeyser.com/statistics.php</link>
+	
 	</registeredUrl>  
-		<id>1398081</id>
+	
 	<usage>
-		<link>http://stat.appsgeyser.com/statistics.php</link>
+		
 	</usage>
 	<preventFromSleep>false</preventFromSleep>
 	<locationUrl>
